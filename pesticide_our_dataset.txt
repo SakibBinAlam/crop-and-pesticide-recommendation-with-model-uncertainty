@@ -1,0 +1,442 @@
+(aphids, rice) - Imidacloprid, Thiamethoxam, Azadirachtin
+
+(aphids, maize) - Methyl demeton 25 EC, Carbofuran 3% CG, Dimethoate 30% EC
+
+(aphids, jute) - endosulfan 35 EC, Imidacloprid
+
+(aphids, cotton) - Thiamethoxam, Imidacloprid, Emamectin Benzoate
+
+(aphids, coconut) - Malathion 50 EC, Dimethoate 30 EC
+
+(aphids, papya) - carbofuran, Thiamethoxam
+
+(aphids, orange) - Imidacloprid
+
+(aphids, apple) - Chlorpyrifos 20.00% EC, Cyenopyrafen 30.00% SC, Dimethoate 30.00% EC
+
+(aphids, muskmelon) - Acetamiprid 20% SP, Bomba Super Imidacloprid 30.5% SC
+
+(aphids, watermelon) - Imidacloprid
+
+(aphids, grapes) - Dantotsu, Carbaryl (0.15%), Quinalphos (0.05%)
+
+(aphids, mango) - dimethoate 30 EC, methyldemeton 25 EC
+
+(aphids, banana) - Phosphamidon 85 WSC, Dimethoate 30 EC, Imidacloprid 17.8 SL
+
+(aphids, pomegranate) - malathion 50 EC 0.1%, dimethoate 30 EC 0.06%
+
+(aphids, lentil) - neem oil
+
+(aphids, blackgram) - thiamethoxam 25% WG, Dimethoate 30% EC, Methyl demeton 25%EC
+
+(aphids, mungbean) - neem oil, thiamethoxam 25 WG, imidacloprid 70 WG
+
+(aphids, mothbeans) - Acetamiprid
+
+(aphids, pigeonpeas) - dimethoate 30% EC, endosulfan 35% EC
+
+(aphids, kidneybeans) - Methyl demeton 25 EC, Dimethoate, Imidaclorpid
+
+(aphids, chickpea) - Emamectin benzoate
+
+(aphids, coffee) - RANGER 480EC, PRESENTO 200SP
+
+-----------------------------------------------------------------------
+
+(armyworm, rice) - spinosad, bifenthrin, cyfluthrin
+
+(armyworm, maize) - Evicent
+
+(armyworm, cotton) - Chlorantraniliprole, emamectin benzoate, spinetoram
+
+(armyworm, coconut) - Chlorantraniliprole
+
+(armyworm, papaya) - lambda cyhalothrin 9.5 %zc
+
+(armyworm, muskmelon) - Acetamiprid 20% SP, Bomba Super Imidacloprid 30.5% SC
+
+(armyworm, watermelon) - spinosad, bifenthrin, cyfluthrin
+
+(armyworm, mango) - Buprofezin 25.00% SC, Deltamethrin 02.80% EC
+
+(armyworm, banana) - Metarhizium anisopliae, Emamectin benzoate, Novaluron
+
+(armyworm, lentil) - Spinetoram 11.7% SC, Chlorantraniliprole 18.5 SC
+
+(armyworm, blackgram) - Dipel, Delfin 5WG
+
+(armyworm, mungbean) - Spinetoram 11.7%SC
+
+(armyworm, mothbeans) - Ampligo
+
+(armyworm, pigeonpeas) - cyfluthrin, spinosad, cypermethrin
+
+(armyworm, kidneybeans) - pinosad, bifenthrin, cyfluthrin
+
+(armyworm, chickpea) - Emamectin benzoate, Indoxcarb
+
+---------------------------------------------------------
+
+(beetle, rice) - chlorpyriphos 50 EC, Imidacloprid
+
+(beetle, maize) - Carbofuran 3G, Fenvalerate 20EC, Cypermethrin 10EC
+
+(beetle, jute) - endosulfan 0.07%, Carbaryl 50WP
+
+(beetle, cotton) - Imidacloprid 17.8% SL
+
+(beetle, coconut) - Malathion 50 EC, Dimethoate 30 EC, Methyl demeton 25 EC
+
+(beetle, papaya) - Katyayani Thiamethoxam 12.6% 
+
+(beetle, orange) -  chlorpyriphos, quinalphos
+
+(beetle, apple) - cypermethrin, tebuconazole, fludioxonil
+
+(beetle, muskmelon) - Acetamiprid 20% SP, Imidacloprid 30.5% SC
+
+(beetle, watermelon) - Emamectin benzoate 5% SG
+
+(beetle, grapes) - Malathion 50.00% EC, Abamectin 01.90% EC, Buprofezin 25.00% SC
+
+(beetle, mango) - Copper oxychloride paste, Carbofuran 3G
+
+(beetle, banana) - Flubendiamide 39.35 % sc, Malathion 50 % EC
+
+(beetle, pomegranate) - chlorypyriphos 20 EC
+
+(beetle, lentil) - Neem oil, Dimethoae 30% EC
+
+(beetle, blackgram) - Endosulfan, Chlorpyriphos
+
+(beetle, mungbean) - Imidacloprid, Neem oil
+
+(beetle, mothbeans) - Phorate 10G, Chloropyriphos 1.5%
+
+(beetle, pigeonpeas) - Cypermethrin 10EC, Carbaryl 10%, Quinalphos 1.5%
+
+(beetle, kidneybeans) - IMAXI 200SC
+
+(beetle, chickpea) - Emamectin benzoate, Indoxcarb
+
+(beetle, coffee) - Endosulfan
+
+---------------------------------------------------------------------------------
+
+(bollworm, cotton) - Nighaban 20EC, Talstar 10EC
+
+(bollworm, maize) - Quinalphos 25 EC, Carbaryl 50 WP
+
+---------------------------------------------------------------------------------
+
+
+(Grasshopper, rice) -  5–10% methyl parathion, 2% malathion, Chlorpyriphos 20 EC
+
+(Grasshopper, maize) - Emamectin benzoate 5 % SG, Neem oil
+
+(Grasshopper, jute) - Carbaryl, Malathion
+
+(Grasshopper, cotton) - Cyfluthrin, Bifenthrin, Permethrin, Carbaryl, Malathion
+
+(Grasshopper, coconut) - Pyrethrins, Carbamaryl
+
+(Grasshopper, papaya) - Malathion, Metam-sodium, DIPELR2X
+
+(Grasshopper, muskmelon) - Carbaryl
+
+(Grasshopper, watermelon) - Malathion, Carbaryl
+
+(Grasshopper, grapes) - Malathion, Carbaryl
+
+(Grasshopper, mango) - Imidacloprid 0.005%
+
+(Grasshopper, banana) - Chlorpyrifos
+
+(Grasshopper, pomegranate) - Carbaryl, Malathion
+
+(Grasshopper, lentil) - Pyrethrins, Chlorpyrifos
+
+(Grasshopper, blackgram) - methyl-o-demeton
+
+(Grasshopper, mungbean) - Mephosfolan, Insecticidal Soap (Potassium Salts of Fatty Acids)
+
+(Grasshopper, mothbeans) - Malathion
+
+(Grasshopper, pigeonpeas) - Carbaryl
+
+(Grasshopper, kidneybeans) - Pyrethrins, Malathion, Carbaryl
+
+(Grasshopper, chickpea) - Esfenvalerate, Beta-cyfluthrin
+
+(Grasshopper, coffee) - Organophosphates
+
+-------------------------------------------------------------------
+
+(mites, rice) - Foster, Copper sulfate pentahydrate, Diflubenzuron
+
+(mites, maize) - chlorantraniliprole 18.5 SC, thiamethoxam 12.6 % + lambda cyhalothrin 9.5% ZC
+
+(mites, jute) - Endosulfan 35 EC, Carbaryl 50% WP
+
+(mites, cotton) - Oberon, Amruth Almite Liquid, Royal Clear Mite
+
+(mites, coconut) - CocoGuard, Monocrotophos
+
+(mites, papaya) - Royal Clear Mite
+
+(mites, orange) - Dicofol, EM 1 Insecticide, EXPONUS INSECTICIDE
+
+(mites, apple) - Bifenthrin, Foster
+
+(mites, muskmelon) - Dicofol, Bayer Oberon, Bayer Solomon
+
+(mites, watermelon) - Econeem Azadirachtin, Neem oil, Dicofol (0.05%)
+
+(mites, grapes) - Phosphamidon (0.05%), Monocrotophos (0.1%), Malathion (0.05%)
+
+(mites, mango) - Dimethoate 30.00% EC, Imidacloprid 17.80% SL, Malathion 50.00% EC
+
+(mites, banana) - Rogor
+
+(mites, pomegranate) - Neem oil, Biomite
+
+(mites, lentil) - R-Mite, Endosulfan (Thiodan 35), Alpha capamethrin (Fasctac EC 10)
+
+(mites, blackgram) - Emamectin benzoate 5%SG, Indoxacarb 15.8%SC, NSKE 5%, Triazophos 0.05, Neem oil 
+
+(mites, mungbean) - Admire 200SL, Voliam Flexi
+
+(mites, mothbeans) - Phosphine fumigation, AMAZING TOP 100WDG
+
+(mites, pigeonpeas) - Endosulfan, Synthetic pyrethroids
+
+(mites, kidneybeans) - acaricides Indo 50% EC, Challenger 36% SC, Ortus 5% SC
+
+(mites, chickpea) - Chlorantraniliprole
+
+(mites, coffee) - RANGER 480EC, PRESENTO 200SP, Carbaryl 85%
+
+------------------------------------------------------------------------
+
+(mosquito, rice) - Kashima: 0.4% chlorantraniliprole, Isogashi: 17.8% imidacloprid
+
+(mosquito, maize) - Malathion, Chlorantraniliprole 18.5 SC, Spinetoram 11.7% SC
+
+(mosquito, jute) - Phosalone 0.07%, Endosulfan 0.07%, Transfluthrin
+
+(mosquito, coconut) - Malathion 50 EC, Dimethoate 30 EC, Methyl demeton 25 EC
+
+(mosquito, papaya) - Deltamethrin, Permethrin
+
+(mosquito, orange) - Malathion, Naled, Prallethrin
+
+(mosquito, muskmelon) - Neem oil, Pyrethrin
+
+(mosquito, watermelon) - Benevia, Actara
+
+(mosquito, mango) - Imidacloprid 17.80% SL, Lambda-cyhalothrin 05.00% EC, Malathion 50.00% EC, Monocrotophos 36.00% SL
+
+(mosquito, banana) - Dimethoate, Diazinon
+
+(mosquito, pomegranate) - Imidacloprid, Indoxacarb, Thiamethoxam
+
+(mosquito, lentil) - Neem oil, Dimethoae 30% EC
+
+(mosquito, blackgram) - Chlorantraniliprole 18.50% SC, Flubendiamide 20.00% WG, Dimethoate 30% EC
+
+(mosquito, mungbean) - Imidacloprid 74.30%
+
+(mosquito, mothbeans) - Imidacloprid
+
+(mosquito, pigeonpeas) - Spinosad 48SG, Lambda-cyhalothrin 5 ECCypermethrin 25 EC
+
+(mosquito, kidneybeans) - Deltamethrin
+
+(mosquito, chickpea) - Emamectin benzoate, Indoxacarb 15.8% EC
+
+(mosquito, coffee) - Monocrotophos 36.00% SL, Oxydemeton-methyl 25.00% EC
+
+-------------------------------------------------------------------------
+
+(sawfly, rice) - Chlorpyrifos, Imidacloprid
+
+(sawfly, maize) - Neem oil, Spinosad sprays, Thimet 20-G
+
+(sawfly, jute) - Chlorpyrifos
+
+(sawfly, cotton) - Emamectin benzoate, Neem oil, Spinosad sprays
+
+(sawfly, coconut) - Spinosad sprays
+
+(sawfly, orange) - Neem oil
+
+(sawfly, apple) - Deltamethrin
+
+(sawfly, grapes) - Prmethrin, Bfenthrin, Lmbda cyhalothrin, Crbaryl
+
+(sawfly, banana) - Spinosad sprays
+
+(sawfly, blackgram) - Imidacloprid: 17.8 SL
+
+(sawfly, coffee) - Carbaryl (Sevin), Insecticidal soap (M-Pede)
+
+---------------------------------------------------------------
+
+(stem borer, rice) - Chlorantraniliprole 0.5%,Thiamethoxam 1%
+
+(stem borer, maize) - Methyl demeton 25 EC, Carbofuran 3%CG, Dimethoate 30%EC, Phorate 10%CG
+
+(stem borer, jute) - Larvo Raze, Quinalphos 25 EC, Lambda cyhalothrin 5% EC
+
+(stem borer, coconut) - Malathion 50 EC, Dimethoate 30 EC, Methyl demeton 25 EC
+
+(stem borer, papaya) - Texan, Deltamethrin, Dimethoate 30 EC
+
+(stem borer, orange) - Monocrotophos, Quinalphos
+
+(stem borer, apple) - Bfenthrin, Qinalphos 25 EC
+
+(stem borer, muskmelon) - Texan
+
+(stem borer, watermelon) - Bifenthrin, Dicofol (0.05%), Wettable Sulphur (0.3%)
+
+(stem borer, grapes) - Malathion (0.05%),Endosulphan (0.05%)
+
+(stem borer, mango) - Carbofuran
+
+(stem borer, banana) - Vayego Forte, Imidacloprid 17.8% SL
+
+(stem borer, pomegranate) - quinalphos (0.05%) or chlorpyrifos (0.05%)
+
+(stem borer, lentil) - Endosulfan (Thiodan 35), Alpha capamethrin (Fasctac EC 10)
+
+(stem borer, blackgram) - Neem oil, Methyl-o-demeton, Chlorotraniliprole 18.5% SC
+
+(stem borer, mungbean) - methomyl ,indoxacarb
+
+(stem borer, mothbeans) - Larvo Raze
+
+(stem borer, pigeonpeas) - Azadirachtin 0.03 % WSP, Dimethoate 30% EC, Emamectin benzoate 5% SG
+
+(stem borer, kidneybeans) - Cartap SP
+
+(stem borer, chickpea) - Evoke, Humus
+
+(stem borer, coffee) - Chlorpyrifos 20 EC, Cypermethrin 5EC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
